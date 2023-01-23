@@ -1,4 +1,4 @@
 # CV
 لینک دانلود:
 
-https://github.com/msinamsina/resume/raw/main/MohammadSinaAlahkaram.pdf
+https://github.com/msinamsina/CV/raw/main/MohammadSinaAlahkaram.pdf
